@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Caesar
 - 👀 I’m interested in Graphic 
+- I'm just a newbie
 - 🌱 I’m currently learning vulkan and openGL
 
 <!---
